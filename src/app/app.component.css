@@ -1,0 +1,13 @@
+.div{
+	margin:15px;
+}
+
+#marginbetweennavigationbarandjumbotron{
+	margin-top:60px;
+  background-color:white;
+  color:black;
+  border-radius:6px;
+  padding:20px;
+  margin-bottom:20px;
+}
+ul{list-style-type:none;}
